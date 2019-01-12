@@ -1,4 +1,4 @@
 # Hola-Mundo
 Esto es nuevo para mi
 
-Esto solo va hacer un poco de entretenimientp solo me aburro
+Esto solo va hacer un poco de entretenimiento solo me aburro
